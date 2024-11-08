@@ -13,7 +13,7 @@ body {
     height: 750px;
     color: rgb(247, 247, 243);
     background-image:
-    linear-gradient(rgb(0,0,0,0.5), rgb(0,0,0,0.5)),url("/images/cafa.jpg");
+    linear-gradient(rgb(0,0,0,0.5), rgb(0,0,0,0.5)),url("../images/cafa.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
