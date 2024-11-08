@@ -1,3 +1,2 @@
 # landpage
 
-# my notes
